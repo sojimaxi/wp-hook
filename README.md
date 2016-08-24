@@ -1,6 +1,8 @@
 # wp-hook
-## Intro
+
 A simple implementation of WordPress Plugin API and hooking mechanism for projects or libraries that requires creating actions and filters and hooking functions, and methods. 
+
+## Intro
 
 The guys at WordPress already created a beautify mechanism for hooking up functions and methods for later execution so there is no point to reinventing the wheel.
 
